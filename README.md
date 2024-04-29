@@ -6,6 +6,11 @@
   In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
   Add your open source license, GitHub uses MIT license.
 -->
+# This is an `<h1>` header, which is the largest
+
+## This is an `<h2>` header
+
+###### This is an `<h6>` header, which is the smallest
 
 # Communicate using Markdown
 
@@ -71,7 +76,6 @@ _Welcome to "Communicate using Markdown"! :wave:_
   <<< Author notes: Footer >>>
   Add a link to get support, GitHub status page, code of conduct, license link.
 -->
-# hello Akash
 ---
 
 Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/communicate-using-markdown) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
